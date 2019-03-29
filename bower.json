@@ -1,0 +1,28 @@
+{
+  "name": "ares",
+  "description": "A tiny JavaScript micro-library",
+  "main": "ares-min.js",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "tests",
+    ".*",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "keywords": [
+	"browser",
+	"ares",
+	"dom",
+	"library",
+	"microlibrary"
+  ],
+  "authors": [
+  	"Al Romano <alexander@virtuallycreative.ca> (https://virtuallycreative.ca)"
+  ],
+  "homepage": "https://github.com/vip3rousmango/aresDOM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vip3rousmango/aresDOM.git"
+  }
+}

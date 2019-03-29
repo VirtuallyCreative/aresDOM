@@ -1,0 +1,37 @@
+{
+	"name": "aresDOM",
+	"version": "0.1.0",
+	"description": "A tiny JavaScript micro-library",
+	"keywords": [
+		"browser",
+		"ares",
+		"dom",
+		"library",
+		"microlibrary"
+	],
+	"homepage": "https://github.com/vip3rousmango/aresDOM",
+	"bugs": {
+		"url": "https://github.com/vip3rousmango/aresDOM/issues"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Al Romano",
+		"email": "alexander@virtuallycreative.ca",
+		"url": "https://virtuallycreative.ca"
+	},
+	"main": "ares-min.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vip3rousmango/aresDOM.git"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-jshint": "^2.0.4",
+		"gulp-qunit": "^1.5.0",
+		"gulp-rename": "^1.2.2",
+		"gulp-replace": "^0.5.4",
+		"gulp-uglify": "^3.0.0",
+		"jshint": "^2.9.4",
+		"qunitjs": "^2.3.3"
+	}
+}
