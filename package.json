@@ -20,18 +20,25 @@
 		"url": "https://virtuallycreative.ca"
 	},
 	"main": "ares-min.js",
+	"scripts": {
+		"test": "phantomjs './tests/runner.html'",
+		"start": "brunch watch --server",
+		"build": "brunch build --production"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/vip3rousmango/aresDOM.git"
 	},
 	"devDependencies": {
-		"gulp": "^3.9.1",
-		"gulp-jshint": "^2.0.4",
-		"gulp-qunit": "^1.5.0",
-		"gulp-rename": "^1.2.2",
-		"gulp-replace": "^0.5.4",
-		"gulp-uglify": "^3.0.0",
 		"jshint": "^2.9.4",
-		"qunitjs": "^2.3.3"
+		"qunit-phantomjs-runner": "^2.3.1",
+		"qunitjs": "^2.4.1"
+	},
+	"dependencies": {
+		"brunch": "^2.10.17",
+		"gzip-brunch": "^1.3.0",
+		"imagemin-brunch": "^1.1.0",
+		"jshint-brunch": "^2.0.0",
+		"terser-brunch": "^3.0.0"
 	}
 }

@@ -23,7 +23,7 @@
 }
 </style>
 <script src="../node_modules/qunitjs/qunit/qunit.js"></script>
-<script src="../ares-min.js"></script>
+<script src="../public/aresDOM.min.js"></script>
 <script>
 
 // Mock window.XMLHttpRequest
@@ -155,11 +155,11 @@ QUnit.test('HTML', function(assert) {
 QUnit.test('Attribute', function(assert) {
 	$('#attr').attr('style','font-family:monospace');
 	$('#attr').attr('class','red');
-	$('#attr').attr('href','http://virtuallycreative.ca');
+	$('#attr').attr('href','https://virtuallycreative.ca');
 
 	assert.equal($('#attr').css('font-family'), 'monospace' ,'Style attribute');
 	assert.equal($('#attr').getClass(), 'red' ,'Class attribute');
-	assert.equal($('#attr').attr('href'), 'http://virtuallycreative.ca' ,'Attribute');
+	assert.equal($('#attr').attr('href'), 'https://virtuallycreative.ca' ,'Attribute');
 });
 
 QUnit.test('Data', function(assert) {

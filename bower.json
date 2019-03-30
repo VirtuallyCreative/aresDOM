@@ -1,5 +1,5 @@
 {
-  "name": "ares",
+  "name": "aresDOM",
   "description": "A tiny JavaScript micro-library",
   "main": "ares-min.js",
   "license": "MIT",
