@@ -1,7 +1,7 @@
 {
   "name": "aresDOM",
   "description": "A tiny JavaScript micro-library",
-  "main": "ares-min.js",
+  "main": "aresDOM.min.js",
   "license": "MIT",
   "ignore": [
     "node_modules",

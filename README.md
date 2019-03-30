@@ -127,7 +127,7 @@ $().loaded(foo);
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -175,7 +175,7 @@ $().loaded(foo);
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -199,7 +199,7 @@ $().loaded(foo);
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -221,7 +221,7 @@ $().loaded(foo);
 <style>
 p {display:none}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -240,7 +240,7 @@ p {display:none}
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -259,7 +259,7 @@ p {display:none}
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -285,7 +285,7 @@ p {display:none}
 <style>
 .bold {font-weight:900}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -310,7 +310,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <div class="red">Foo</div>
@@ -337,7 +337,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -361,7 +361,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -385,7 +385,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -409,7 +409,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -433,7 +433,7 @@ p {display:none}
 .red {color:red}
 .mono {font-family:monospace}
 </style>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <div class="red">Foo</div>
@@ -459,7 +459,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -479,7 +479,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -498,7 +498,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -517,7 +517,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -536,7 +536,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -559,7 +559,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p><a href="http://en.wikipedia.org/wiki/Foobar">Foobar</a></p>
@@ -582,7 +582,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p data-test="foo"></p>
@@ -607,7 +607,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <form>
@@ -639,7 +639,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <form>
@@ -664,7 +664,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -689,7 +689,7 @@ If the *html* argument is specified, this will replace the inner HTML of all mat
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <p>Foo</p>
@@ -719,7 +719,7 @@ For cross-domain requests, **get** uses JSONP by default but this is overridden 
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <form>
@@ -740,7 +740,7 @@ For cross-domain requests, **get** uses JSONP by default but this is overridden 
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <script>
@@ -769,7 +769,7 @@ When *nocache* is true, a `_ts` time stamp is added to the URL to prevent cachin
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <form>
@@ -801,7 +801,7 @@ For cross-domain requests, **ajax** uses JSONP by default but this is overridden
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <form>
@@ -826,7 +826,7 @@ For cross-domain requests, **ajax** uses JSONP by default but this is overridden
 <!DOCTYPE html>
 <html>
 <head>
-<script src="ares-min.js"></script>
+<script src="aresDOM.min.js"></script>
 </head>
 <body>
 <script>

@@ -19,7 +19,7 @@
 		"email": "alexander@virtuallycreative.ca",
 		"url": "https://virtuallycreative.ca"
 	},
-	"main": "ares-min.js",
+	"main": "aresDOM.min.js",
 	"scripts": {
 		"test": "phantomjs './tests/runner.html'",
 		"start": "brunch watch --server",
