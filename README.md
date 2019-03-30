@@ -48,7 +48,7 @@ yarn install aresDOM
 
 ### Modify, build, contribute
 
-```shell
-npm install
-gulp
+```sh
+yarn
+npm run start
 ```
