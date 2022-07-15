@@ -39,6 +39,6 @@
 		"gzip-brunch": "^1.3.0",
 		"imagemin-brunch": "^1.1.0",
 		"jshint-brunch": "^2.0.0",
-		"terser-brunch": "^3.0.0"
+		"terser-brunch": "^4.0.0"
 	}
 }
